@@ -1376,7 +1376,7 @@ h1 {
 }
 
 .logo-text {
-    font-size: 22px;
+    font-size: 20px;
     font-weight: bold;
     color: black;
 }
@@ -1385,7 +1385,7 @@ h1 {
 
 .logo-text {
     font-family: 'Pacifico', cursive; /* Красивый рукописный шрифт */
-    font-size: 26px;
+    font-size: 20px;
     font-weight: bold;
     color: black;
     text-transform: uppercase;
